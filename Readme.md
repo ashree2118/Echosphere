@@ -3,7 +3,7 @@
 **Echosphere** is a comprehensive property management platform that connects residents, property owners, and maintenance staff through an AI-powered interface. The application facilitates issue reporting, service requests, and community management with voice-enabled features.
 
 ## Demo Video (click to play)
-https://vimeo.com/1113959172?share=copy
+[![Watch the demo](extension/assets/screenshots/client-updated-ui.png)](https://vimeo.com/1113959172)
 
 ## 🏗️ Architecture
 
@@ -22,6 +22,10 @@ https://vimeo.com/1113959172?share=copy
 - **Residents**: Report issues, request services, view community events
 - **Property Owners**: Manage properties, approve requests, oversee maintenance
 - **Technicians**: Handle assigned tasks, update status, communicate with residents
+
+## screenshots
+<img width="1152" height="834" alt="image" src="https://github.com/user-attachments/assets/3f3d71a2-b9ab-47a7-9de5-b0cf2867da4b" />
+
 
 ### 2. **Issue Management System**
 - **Issue Types**: Plumbing, Electrical, HVAC, Security, Internet, Appliances, Structural, Pest Control
