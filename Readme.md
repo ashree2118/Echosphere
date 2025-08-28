@@ -56,28 +56,6 @@
 - **Commands**: Raise issues, check status, request services  
 - **NLP**: Converts speech into structured, actionable requests  
 
----
-
-### 📊 Dashboard Interfaces
-
-#### 🏢 Owner Dashboard (`/dashboard/owner`)
-- Property & staff management  
-- Approve/assign issues & service requests  
-- Community event planning  
-- AI assistant for admin tasks  
-- Stats & analytics overview  
-
-#### 🏠 Resident Dashboard (`/dashboard/resident`)
-- Profile management  
-- Voice assistant for quick actions  
-- Issue reporting & service requests  
-- Event calendar & history tracking  
-
-#### 🔧 Technician Dashboard
-- Assigned task tracking  
-- Status updates in real-time  
-- Communication with residents/owners  
-- Manage availability  
 
 ---
 
