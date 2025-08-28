@@ -29,6 +29,13 @@
 
 ---
 
+## 🖼️ Screenshots
+<img width="1152" height="834" alt="image" src="https://github.com/user-attachments/assets/3f3d71a2-b9ab-47a7-9de5-b0cf2867da4b" />
+<img width="1631" height="726" alt="image" src="https://github.com/user-attachments/assets/1e20de94-4220-4e16-ae32-f07e4e83d0f7" />
+
+
+---
+
 ### 🛠️ Issue Management System
 - **Types**: Plumbing, Electrical, HVAC, Security, Internet, Appliances, Structural, Pest Control  
 - **Priorities**: P1 (Critical) → P4 (Low)  
@@ -71,11 +78,6 @@
 - Status updates in real-time  
 - Communication with residents/owners  
 - Manage availability  
-
----
-
-## 🖼️ Screenshots
-<img width="1152" height="834" alt="image" src="https://github.com/user-attachments/assets/3f3d71a2-b9ab-47a7-9de5-b0cf2867da4b" />
 
 ---
 
