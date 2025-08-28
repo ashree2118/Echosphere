@@ -6,6 +6,7 @@
 
 ## 🎥 Demo Video
 ▶ [Click to Watch](https://vimeo.com/1113959172?share=copy)
+<img width="1814" height="914" alt="image" src="https://github.com/user-attachments/assets/323b542a-0edc-41ba-a797-365a64006bd7" />
 
 ---
 
