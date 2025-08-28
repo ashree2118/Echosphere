@@ -1,72 +1,82 @@
-## 📋 Project Overview
+# 🌐 **Echosphere – AI-Powered Property Management Platform**
 
-**Echosphere** is a comprehensive property management platform that connects residents, property owners, and maintenance staff through an AI-powered interface. The application facilitates issue reporting, service requests, and community management with voice-enabled features.
+**Echosphere** is a modern property management solution that connects **residents, property owners, and maintenance staff** through an **AI-powered, voice-enabled platform**. It simplifies community living by streamlining **issue reporting, service requests, and management workflows**.  
 
-## Demo Video (click to play)
-[![Watch the demo](extension/assets/screenshots/client-updated-ui.png)](https://vimeo.com/1113959172)
+---
 
-## 🏗️ Architecture
+## 🎥 Demo Video
+▶ [Click to Watch](https://vimeo.com/1113959172?share=copy)
 
-### Tech Stack
-- **Frontend**: React 19 + TypeScript + Vite + Tailwind CSS
-- **Backend**: Node.js + Express + TypeScript + Prisma ORM 
-- **Database**: PostgreSQL
-- **Authentication**: JWT + bcrypt
-- **UI Components**: Radix UI + shadcn/ui
-- **Styling**: Tailwind CSS + Framer Motion
-- **Voice Features**: Custom voice chat implementation
+---
 
-## 🎯 Core Features
+## 🏗️ Tech Stack
 
-### 1. **Multi-Role User System**
-- **Residents**: Report issues, request services, view community events
-- **Property Owners**: Manage properties, approve requests, oversee maintenance
-- **Technicians**: Handle assigned tasks, update status, communicate with residents
+- **Frontend**: React 19 + TypeScript + Vite + Tailwind CSS  
+- **Authentication**: JWT + bcrypt  
+- **UI Components**: Radix UI + shadcn/ui  
+- **Styling & Animations**: Tailwind CSS + Framer Motion  
+- **Voice Features**: Custom voice chat + NLP integration  
 
-## screenshots
+---
+
+## ✨ Core Features
+
+### 👥 Multi-Role User System
+- **Residents** → Report issues, request services, view events  
+- **Property Owners** → Manage properties, approve requests, oversee staff  
+- **Technicians** → Handle assigned tasks, update status, communicate  
+
+---
+
+### 🛠️ Issue Management System
+- **Types**: Plumbing, Electrical, HVAC, Security, Internet, Appliances, Structural, Pest Control  
+- **Priorities**: P1 (Critical) → P4 (Low)  
+- **Workflow**: `Pending → Assigned → In Progress → Resolved`  
+- **Attachments**: Multiple image uploads for documentation  
+
+---
+
+### 🧾 Service Request System
+- **Services**: Cleaning, Repair, Maintenance, Installation, Inspection  
+- **Workflow**: `Pending → Awaiting Approval → Approved → Assigned → In Progress → Completed`  
+- **Approval**: Owner approval required before assignment  
+
+---
+
+### 🎙️ Voice-Enabled Features
+- **Voice Assistant**: AI-powered conversational interface  
+- **Commands**: Raise issues, check status, request services  
+- **NLP**: Converts speech into structured, actionable requests  
+
+---
+
+### 📊 Dashboard Interfaces
+
+#### 🏢 Owner Dashboard (`/dashboard/owner`)
+- Property & staff management  
+- Approve/assign issues & service requests  
+- Community event planning  
+- AI assistant for admin tasks  
+- Stats & analytics overview  
+
+#### 🏠 Resident Dashboard (`/dashboard/resident`)
+- Profile management  
+- Voice assistant for quick actions  
+- Issue reporting & service requests  
+- Event calendar & history tracking  
+
+#### 🔧 Technician Dashboard
+- Assigned task tracking  
+- Status updates in real-time  
+- Communication with residents/owners  
+- Manage availability  
+
+---
+
+## 🖼️ Screenshots
 <img width="1152" height="834" alt="image" src="https://github.com/user-attachments/assets/3f3d71a2-b9ab-47a7-9de5-b0cf2867da4b" />
 
-
-### 2. **Issue Management System**
-- **Issue Types**: Plumbing, Electrical, HVAC, Security, Internet, Appliances, Structural, Pest Control
-- **Priority Levels**: P1 (Critical), P2 (High), P3 (Medium), P4 (Low)
-- **Status Tracking**: Pending → Assigned → In Progress → Resolved
-- **Image Support**: Multiple image uploads for issue documentation
-
-### 3. **Service Request System**
-- **Service Types**: Cleaning, Maintenance, Repair, Installation, Upgrade, Inspection
-- **Approval Workflow**: Owner approval required for service requests
-- **Status Flow**: Pending → Awaiting Approval → Approved → Assigned → In Progress → Completed
-
-### 4. **Voice-Enabled Features**
-- **Voice Assistant**: AI-powered voice interface for residents
-- **Voice Commands**: Raise issues, check status, request services
-- **Natural Language Processing**: Convert speech to actionable requests
-
-### 5. **Dashboard Interfaces**
-
-#### Owner Dashboard (`/dashboard/owner`)
-- Property management overview
-- Staff management (technicians, building managers)
-- Issue review and approval system
-- Community event planning
-- AI assistant for management tasks
-- Statistics and analytics
-
-#### Resident Dashboard (`/dashboard/resident`)
-- Personal profile management
-- Voice assistant for quick actions
-- Issue reporting and tracking
-- Service request submission
-- Community event calendar
-- Issue history and status
-
-### Key UI Components
-- **Hero Section**: Landing page with gradient backgrounds
-- **Dashboard Cards**: Information-dense cards with actions
-- **Voice Interface**: Mic-enabled buttons for voice commands
-- **Navigation**: Sidebar navigation for dashboard users
-- **Status Indicators**: Visual status tracking for issues/services
+---
 
 ## 🚀 Development Setup
 
